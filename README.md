@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Puskar Thapa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puskarkaji&label=Profile%20views&color=0e75b6&style=flat" alt="puskarkaji" /> </p>
 <img align="right" alt="Coding" width="400" src="<h1 align="center">Hi 👋, I'm Puskar Thapa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puskarkaji&label=Profile%20views&color=0e75b6&style=flat" alt="puskarkaji" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
-- 🌱 I’m currently learning **React,Angular**
 
-- 💬 Ask me about **react, vue**
+
+- 🌱 I’m currently learning Web development and its framework
+
 
 - 📫 How to reach me **thapapuskar53@gmail.com**
 
