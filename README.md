@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puskar Thapa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puskarkaji&label=Profile%20views&color=0e75b6&style=flat" alt="puskarkaji" /> </p>
-<img align="right" alt="Coding" width="400" src="<h1 align="center">Hi 👋, I'm Puskar Thapa</h1>
+
 
 
 
